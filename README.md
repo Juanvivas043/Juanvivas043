@@ -1,11 +1,9 @@
 <img src="images/svg/header_en.svg"></img>
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Conoce un poco más de mi! </h1>
 <p align="center">
   <samp>
       Desarrollador web y Licenciado en Computación enfocado en crear aplicaciones modernas y escalables con Next.js, React, TypeScript y Supabase. Apasionado por la automatización de procesos (n8n), el ecosistema Cloud (AWS), controlador de versiones (Git) y trabajar con contenedores (Docker).
-  <br><br>
   </samp>
-  <br> <br>
 </p>
 <br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
