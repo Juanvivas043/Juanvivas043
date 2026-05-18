@@ -23,7 +23,7 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Contactame! </h1>
 <p align="center">
-  <a href=https://www.instagram.com/vivas.0" target="_blank">
+  <a href="https://www.instagram.com/vivas.0" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivas.0" height="30" width="40" />
   </a>
 
