@@ -8,31 +8,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h1 align="center"> 💻 Mi Stack </h1>
-<table align="center">
-  <!-- Fila 1: Frontend & Lenguajes Básicos -->
-  <tr>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP" /></td>
-  </tr>
-  <!-- Fila 2: Frameworks, Estilos & Bases de Datos -->
-  <tr>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="TailwindCSS" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /></td>
-  </tr>
-  <!-- Fila 3: Despliegue, Herramientas & Control de Versiones -->
-  <tr>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /></td>
-    <td align="center" bgcolor="#ffffff" style="padding: 15px; border-radius: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
