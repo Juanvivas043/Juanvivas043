@@ -4,7 +4,6 @@
   <samp>
       Desarrollador web y Licenciado en Computación enfocado en crear aplicaciones modernas y escalables con Next.js, React, TypeScript y Supabase. Apasionado por la automatización de procesos (n8n), el ecosistema Cloud (AWS), controlador de versiones (Git) y trabajar con contenedores (Docker).
   <br><br>
-    I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
   </samp>
   <br> <br>
 </p>
