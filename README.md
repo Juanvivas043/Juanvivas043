@@ -33,7 +33,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juanvivas043/juanvivas043/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanvivas043/juanvivas043/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanvivas043/juanvivas043/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/juanvivas043/juanvivas043/output/github-contribution-grid-snake.svg">
+</picture>
 
