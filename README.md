@@ -2,11 +2,11 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
 <p align="center">
   <samp>
-    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Koothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
+      Desarrollador web y Licenciado en Computación enfocado en crear aplicaciones modernas y escalables con Next.js, React, TypeScript y Supabase. Apasionado por la automatización de procesos (n8n), el ecosistema Cloud (AWS), controlador de versiones (Git) y trabajar con contenedores (Docker).
+  <br><br>
     I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
   </samp>
   <br> <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge" />
 </p>
 <br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
